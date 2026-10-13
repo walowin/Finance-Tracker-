@@ -1,4 +1,4 @@
-# 💰 Finance Tracker v1.0 by Арсений Г.
+# 💰 Finance Tracker v1.0 by Walowin
 
 Локальный трекер личных финансов на Python. Строгий тёмный дизайн. Все данные хранятся только на вашем компьютере (SQLite в `%APPDATA%\FinanceTracker\fintracker.db`).
 
